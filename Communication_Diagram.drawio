@@ -259,7 +259,7 @@
             <mxPoint x="660" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1dg3niT85zZYfEjJVxOW-99" value=":RentaBikeUI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1dg3niT85zZYfEjJVxOW-99" value=":RentalBikeUI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="755" y="130" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dg3niT85zZYfEjJVxOW-100" value=":BikeController" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
